@@ -1,7 +1,7 @@
 # coding:utf-8
-# __auth__ = "maiz"
 # __date__ = "2021/6/27"
 
+#列表
 import json
 import re,os
 import requests
