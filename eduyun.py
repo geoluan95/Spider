@@ -2,7 +2,6 @@
 """
 Created on Thu Aug 19 18:57:01 2021
 
-@author: luan
 """
 
 # -*- coding: utf-8 -*-
